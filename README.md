@@ -32,27 +32,20 @@ https://github.com/Sai-Kumar1729/Credit_Card_FraudDetection.git)cd credit-card-f
 - **Baseline Model:** Logistic Regression
 - **Other Models:**
   - Decison Tree
-  - kNearest Ne
   - KNeighborsClassifier
-  - 
 ### 3️⃣ Evaluation Metrics
 - **Precision** 
 - **Accuracy** 
 
 
 ## 🚀 Results
-| Model | Precision | Recall | F1-Score | AUC-ROC |
-|--------|-----------|---------|-----------|---------|
-| Logistic Regression | 85.4% | 78.2% | 81.7% | 89.5% |
-| Random Forest | 91.6% | 85.2% | 88.3% | 94.2% |
-| XGBoost | 94.3% | 88.9% | 91.5% | 96.7% |
-| ANN (Neural Network) | 95.1% | 91.2% | 93.1% | 97.3% |
-
+| Model | Precision | Accuracy |
+|--------|-----------|---------|
+| Logistic Regression | 59.1% | 95.7% |
+| Decision Tree | 98.4% | 99.5% |
+| KNeighborsClassifier | 97.8% | 99.5% |
 
 ## 🙌 Contributions
 Feel free to fork this repo, improve it, and submit a pull request! 😊
 
----
-
-Let me know if you need modifications or want me to add anything! 🚀
 
